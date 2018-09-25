@@ -3,6 +3,7 @@
 
 * [JS](#JS)
 * [C](#C)
+* [Security](#Security)
 
 ## JS
   * [Evan You](https://github.com/yyx990803)
@@ -11,3 +12,6 @@
 ## C
  * [Salvatore Sanfilippo](https://github.com/antirez)
  * [apachecn](https://github.com/apachecn)
+
+## Security
+ * [Brannon Dorsey](https://github.com/brannondorsey)
