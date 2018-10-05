@@ -18,5 +18,5 @@
  * [Brannon Dorsey](https://github.com/brannondorsey)
  * [netxfly](https://github.com/netxfly)
 
-## Game Developer
+## GameDeveloper
  * [Jack Rugile](https://github.com/jackrugile)
