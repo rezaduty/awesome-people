@@ -4,6 +4,7 @@
 * [JS](#JS)
 * [C](#C)
 * [Security](#Security)
+* [Game Developer)(#Game Developer)
 
 ## JS
   * [Evan You](https://github.com/yyx990803)
@@ -16,3 +17,6 @@
 ## Security
  * [Brannon Dorsey](https://github.com/brannondorsey)
  * [netxfly](https://github.com/netxfly)
+
+## Game Developer
+ * [Jack Rugile](https://github.com/jackrugile)
