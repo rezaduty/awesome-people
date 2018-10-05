@@ -4,7 +4,7 @@
 * [JS](#JS)
 * [C](#C)
 * [Security](#Security)
-* [Game Developer](#Game Developer)
+* [GameDeveloper](#GameDeveloper)
 
 ## JS
   * [Evan You](https://github.com/yyx990803)
