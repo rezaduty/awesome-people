@@ -9,6 +9,7 @@
 ## JS
   * [Evan You](https://github.com/yyx990803)
   * [EGOIST](https://github.com/egoist)
+  * [Sindre Sorhus](https://github.com/sindresorhus)
 
 ## C
  * [Salvatore Sanfilippo](https://github.com/antirez)
