@@ -15,6 +15,7 @@
   * [EGOIST](https://github.com/egoist)
   * [Sindre Sorhus](https://github.com/sindresorhus)
   * [David Khourshid](https://github.com/davidkpiano)
+  * [Nicolás Bevacqua](https://github.com/bevacqua)
 
 ## PHP
   * [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
