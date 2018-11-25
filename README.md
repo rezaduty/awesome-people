@@ -14,6 +14,7 @@
   * [Evan You](https://github.com/yyx990803)
   * [EGOIST](https://github.com/egoist)
   * [Sindre Sorhus](https://github.com/sindresorhus)
+  * [David Khourshid](https://github.com/davidkpiano)
 
 ## PHP
   * [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
