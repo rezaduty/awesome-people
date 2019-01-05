@@ -16,6 +16,7 @@
   * [Sindre Sorhus](https://github.com/sindresorhus)
   * [David Khourshid](https://github.com/davidkpiano)
   * [Nicolás Bevacqua](https://github.com/bevacqua)
+  * [Kamran Ahmed](https://github.com/kamranahmedse)
 
 ## PHP
   * [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
