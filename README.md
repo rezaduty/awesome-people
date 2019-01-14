@@ -17,6 +17,7 @@
   * [David Khourshid](https://github.com/davidkpiano)
   * [Nicolás Bevacqua](https://github.com/bevacqua)
   * [Kamran Ahmed](https://github.com/kamranahmedse)
+  * [Terkel](https://github.com/terkelg)
 
 ## PHP
   * [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
