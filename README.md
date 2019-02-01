@@ -18,6 +18,7 @@
   * [Nicolás Bevacqua](https://github.com/bevacqua)
   * [Kamran Ahmed](https://github.com/kamranahmedse)
   * [Terkel](https://github.com/terkelg)
+  * [Connor Atherton](https://github.com/ConnorAtherton)
 
 ## PHP
   * [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
