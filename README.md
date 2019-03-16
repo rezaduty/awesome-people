@@ -3,6 +3,7 @@
 * [C](#C)
 * [JS](#JS)
 * [PHP](#PHP)
+* [Python](#Python)
 * [Security](#Security)
 * [GameDeveloper](#GameDeveloper)
 
@@ -22,6 +23,9 @@
 
 ## PHP
   * [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
+
+# Python
+  * [Somdev Sangwan](https://github.com/s0md3v)
 
 ## Security
  * [Brannon Dorsey](https://github.com/brannondorsey)
