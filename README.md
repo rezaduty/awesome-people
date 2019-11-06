@@ -26,6 +26,7 @@
   * [Kamran Ahmed](https://github.com/kamranahmedse)
   * [Terkel](https://github.com/terkelg)
   * [Connor Atherton](https://github.com/ConnorAtherton)
+  * [James Halliday](https://github.com/substack)
 
 ## PHP
   * [Antonio Carlos Ribeiro](https://github.com/antonioribeiro)
